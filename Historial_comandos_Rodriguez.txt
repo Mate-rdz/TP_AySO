@@ -1,0 +1,155 @@
+exit
+ssh/keygen
+ssh-keygen
+cd
+pwd
+ls -la
+cd .ssh
+ls -la
+cat id_rsa.pub
+sudo apt install git
+git --version
+git clone git@github.com:Mate-rdz/miercoles4.git
+cp README miercoles5/
+echo "# miercoles4" >> README.md
+git add README.md
+git clone git@github.com:Mate-rdz/miercoles4.git
+cp README miercoles4/
+cd miercoles4/
+ls -la
+git status
+git add README
+git status
+git commit -m “comentario”
+git commit -m "Primer archivo"
+git push origin main
+git config --global user.email mateorodriguez008@gmail.com
+git push origin main
+git commit -m "Primer archivo"
+git push -u origin main
+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
+git push origin main
+git commit -m "Primer archivo"
+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
+git init my-repo
+cd my-repo
+touch README.md
+git add README.md
+git commit -m "add README to initial commit"
+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
+git token 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
+git --help
+git push --set-upstream origin main
+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
+git push --set-upstream origin main
+git commit -m "add README to initial commit"
+git config --global user.name "Tu Nombre"
+git config --global user.name Mate-rdz
+git config --global user.email "mateorodriguez008@gmail.com"
+git config --global user.email "mateorodriguez170507@gmail"
+git push --set-upstream origin main
+git push origin main
+git commit -m "Primer archivo"
+cd
+git push origin main
+ls -la
+ls
+cd
+cd .ssh/
+cd miercoles4/
+git push origin main
+cd
+cd repogit
+cd
+rwd
+rmw
+pwd
+ls repogit
+help
+add repogit
+mkdir repogit
+cd repogit/
+git clone git@github.com:Mate-rdz/TP_AySO.git
+cd TP_AySO/
+pwd
+ls -l
+cat /etc/os-release 
+grep
+man grep
+HOME_URL
+grep HOME_URL
+man grep
+grep  -i, --ignore-case Home_url/etc/os-realese
+grep -i Home_url/etc/os-realese
+grep -i Home_url/etc/os-realese>datos_url.txt
+grep -i Home_url /etc/os-realese
+grep HOME_URL /etc/os-release 
+grep home_url /etc/os-release 
+grep -i Home_url /etc/os-realese
+grep -i Home_url /etc/os-realese > datos_url.txt
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release > datos_url.txt
+cat datos_url.txt
+whoami
+id -un Mateo
+echo "Usuario=$(whoami)" > datos_usuario.txt
+git add .
+git config --user.email "mateorodriguez170507@gmai;.com"
+git config --global user.email mateorodriguez170507@gmai;.com
+git config --global user.email mateorodriguez170507@gmail.com
+git config --global user.name Mate-rdz
+git commit -m ADD: agregado 1er ejercicio sobre datos_usuarios.txt 
+git commit -m "ADD: agregado 1er ejercicio sobre datos_usuarios.txt"
+git status
+git push
+cat /proc/cpuinfo
+grep -i model name /proc/cpuinfo
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+git add datos_usuario.txt 
+git commit -m “feat: Añadiendo información de CPU”
+git commit -m "feat: Añadiendo información de CPU"
+git status
+git push
+cat <<EOF >> README.md
+Alumno: Mateo
+Division: 116
+Turno: Mañana
+EOF
+
+git add README.md datos_usuarios.txt 
+git add README.md datos_usuario.txt
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+sudo apt install tree
+sudo snap install tree
+cd
+cd /home/vagrant
+cd repogit
+cd TP_AySO/
+mkdir -p ~/materia1/uni{1..3} ~/materia2/uni{1..3}
+tree ~/materia1 ~/materia2
+cd
+
+tree ~/materia1 ~/materia2
+tree /materia1 /materia2
+tree
+echo 'mkdir -p ~/materia1/uni{1,2,3} ~/materia2/uni{1,2,3}' > script_dir.sh
+chmod +x script_dir.sh
+sudo chmod script_dir.sh 
+git add script_dir.sh 
+git add script_dir.sh
+ls -l
+cd repogit/
+cd TP_AySO/
+git add script_dir.sh
+cd
+mv script_dir.sh repogit/TP_AySO/
+mv materia1 repogit/TP_AySO/
+mv materia2 repogit/TP_AySO/
+cd repogit/
+cd TP_AySO/
+ls -l
+git add script_dir.sh 
+git commit -m "ADD: Añadiendo script"
+git push 
+history -a
