@@ -27,20 +27,15 @@ git config --global user.email mateorodriguez008@gmail.com
 git push origin main
 git commit -m "Primer archivo"
 git push -u origin main
-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
 git push origin main
 git commit -m "Primer archivo"
-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
 git init my-repo
 cd my-repo
 touch README.md
 git add README.md
 git commit -m "add README to initial commit"
-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
-git token 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
 git --help
 git push --set-upstream origin main
-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
 git push --set-upstream origin main
 git commit -m "add README to initial commit"
 git config --global user.name "Tu Nombre"
@@ -153,3 +148,7 @@ git add script_dir.sh
 git commit -m "ADD: Añadiendo script"
 git push 
 history -a
+taii
+exit
+git p  
+exit
